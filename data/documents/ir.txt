@@ -1,0 +1,1 @@
+Information retrieval builds an inverted index to process queries quickly.
